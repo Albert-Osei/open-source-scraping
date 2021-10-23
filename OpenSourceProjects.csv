@@ -1,0 +1,18 @@
+Repo Name,Number of Issues,Description,Stack,View Project
+kibana,5625,:bar_chart: Kibana analytics and search dashboard for Elasticsearch,(elastic/kibana),https://www.codetriage.com/elastic/kibana
+kibana,5624,:bar_chart: Kibana analytics and search dashboard for Elasticsearch,(elasticsearch/kibana),https://www.codetriage.com/elasticsearch/kibana
+riot-web,2351,A glossy Matrix collaboration client for the web.,(vector-im/riot-web),https://www.codetriage.com/vector-im/riot-web
+brave-browser,2121,"Next generation Brave browser for macOS, Windows, Linux, and eventually Android",(brave/brave-browser),https://www.codetriage.com/brave/brave-browser
+gutenberg,2061,Printing since 1440. Development hub for the editor focus in core. Plugin is available from the official WordPress repository.,(wordpress/gutenberg),https://www.codetriage.com/wordpress/gutenberg
+wp-calypso,1595,The JavaScript and API powered WordPress.com,(automattic/wp-calypso),https://www.codetriage.com/automattic/wp-calypso
+brackets,1469,"An open source code editor for the web, written in JavaScript, HTML and CSS.",(adobe/brackets),https://www.codetriage.com/adobe/brackets
+rocket.chat,1432,The ultimate Free Open Source Solution for team communications.,(rocketchat/rocket.chat),https://www.codetriage.com/rocketchat/rocket.chat
+react-native,1201,A framework for building native apps with React.,(facebook/react-native),https://www.codetriage.com/facebook/react-native
+yarn,1094,"📦🐈 Fast, reliable, and secure dependency management.",(yarnpkg/yarn),https://www.codetriage.com/yarnpkg/yarn
+npm,1085,a package manager for javascript,(npm/npm),https://www.codetriage.com/npm/npm
+amphtml,1051,The AMP web component framework.,(ampproject/amphtml),https://www.codetriage.com/ampproject/amphtml
+graphql-engine,1043,"Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.",(hasura/graphql-engine),https://www.codetriage.com/hasura/graphql-engine
+node,1016,Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:,(nodejs/node),https://www.codetriage.com/nodejs/node
+sequelize,967,An easy-to-use multi SQL dialect ORM for Node.js,(sequelize/sequelize),https://www.codetriage.com/sequelize/sequelize
+jest,966,Delightful JavaScript Testing.,(facebook/jest),https://www.codetriage.com/facebook/jest
+storybook,936,"Interactive UI component dev & test: React, React Native, Vue, Angular",(storybooks/storybook),https://www.codetriage.com/storybooks/storybook
